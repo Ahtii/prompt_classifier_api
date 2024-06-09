@@ -1,0 +1,32 @@
+Question: "I haven't received my order yet"
+Answer: "Order Delivery"
+
+Question: "I haven't received my refund"
+Answer: "Refund"
+
+Question: "How can I track my order?"
+Answer: "Order Tracking"
+
+Question: "Can you assist me with troubleshooting?"
+Answer: "Technical Support"
+
+Question: "I forgot my password, can you help?"
+Answer: "Password Recovery"
+
+Question: "How do I return an item?"
+Answer: "Return Process"
+
+Question: "I'm having trouble applying a discount code"
+Answer: "Discount Code Assistance"
+
+Question: "What payment methods do you accept?"
+Answer: "Payment Options"
+
+Question: "I want to change my shipping address"
+Answer: "Shipping Address Update"
+
+Question: "How can I update my billing information?"
+Answer: "Billing Information Update"
+
+Question: "My credit card gets declined when I attempt to make a payment."
+Answer: "Card Declined"
