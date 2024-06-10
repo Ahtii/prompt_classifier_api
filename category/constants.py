@@ -3,8 +3,7 @@ TEMPERATURE = 0.7
 
 SYSTEM_PROMPT = """
    You should function as a category classifier, sorting questions into their appropriate categories and 
-   refining your responses based on previous historical answers. Avoid fabricating responses. 
-   Answer based on the below context: \n\n{context} 
+   refining your responses based on previous messages. Answer based on the below context: \n\n{context} 
 """
 
 CHUNK_SIZE = 200
